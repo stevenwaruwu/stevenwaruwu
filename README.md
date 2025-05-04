@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Steven Austin Waruwu
 
-## 🧑‍💻 Multisector Professional | Builder at Heart | Entrepreneurial Mindset
+## 🧑‍💻 IT ARCHITECH | Builder at Heart | Entrepreneurial Mindset
 
 📍 Jakarta Selatan, DKI Jakarta, Indonesia  
 📧 stevenawaruwu@gmail.com  
