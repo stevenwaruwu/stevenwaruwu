@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Steven Austin Waruwu
 
-## 🧑‍💻 IT ARCHITECH | Builder at Heart | Entrepreneurial Mindset
+## 🧑‍💻 IT Architect | Entrepreneur | Strategic Builder
 
 📍 Jakarta Selatan, DKI Jakarta, Indonesia  
 📧 stevenawaruwu@gmail.com  
