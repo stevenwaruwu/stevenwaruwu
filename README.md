@@ -29,7 +29,7 @@ My work spans from managing hundreds of servers and virtual machines to developi
 ---
 
 ### 🎯 Certifications
-
+- AWS Solutions Architect - Associate (2025)
 - RHCSA - Red Hat Certified System Administrator (2020)
 - Network Security Fundamentals - Palo Alto Network (2024)
 - Cloud Security Fundamental - Palo Alto Network (2025)
